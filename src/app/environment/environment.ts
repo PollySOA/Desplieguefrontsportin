@@ -1,4 +1,4 @@
-export const serverURL = '';
+export const serverURL = '/api';
 
 export const neighborhood = 2;
 
